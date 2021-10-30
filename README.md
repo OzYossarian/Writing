@@ -2,7 +2,11 @@
 
 A place to keep bits of writing that were created without git.
 
-### braids.pdf
+### Braids.pdf
+
+4th year master's thesis on simplifying qutrit and qudit ZX-diagrams.
+
+### Braids.pdf
 
 3rd year mathematical dissertation on Commutative Properties of Braids.
 
