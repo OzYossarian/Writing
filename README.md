@@ -2,7 +2,7 @@
 
 A place to keep bits of writing that were created without git.
 
-### Braids.pdf
+### ZX Qutrits and Qudits.pdf
 
 4th year master's thesis on simplifying qutrit and qudit ZX-diagrams.
 
